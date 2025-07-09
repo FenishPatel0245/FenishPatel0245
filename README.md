@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋,Fenish Patel </h1>
-<h3 align="center"> Computer science Student at Conestoga college, waterloo , Canada 🌟.</h3>
+<h3 align="center"> Computer science Student , Waterloo , Canada 🌟.</h3>
 <br>
 <p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=FenishPatel0245-pw&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="adam-pw"> 
   <p></p>
@@ -71,10 +71,6 @@
   <!-- GitHub -->
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
