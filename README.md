@@ -68,10 +68,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
+  <!--Azure Boards -->
+ <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure boards" width="40" height="40"/>
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
