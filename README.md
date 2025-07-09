@@ -2,42 +2,46 @@
 <h3 align="center">Computer Science Student | Waterloo, Canada 🌟</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FenishPatel0245-pw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=FenishPatel0245-pw&label=Profile%20views&color=0e75b6&style=flat" alt="Fenish's GitHub views" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="left" width="55%">
-      <ul>
-        <li>🌱 I’m currently learning Web Development and various programming languages.</li>
-        <li>📫 How to reach me: <a href="mailto:patelfenish245@gmail.com"><strong>patelfenish245@gmail.com</strong></a></li>
-        <li>⚡ Fun fact: Food and Music 🎵 keep life alive!</li>
-      </ul>
-    </td>
-    <td align="right" width="45%">
-      <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding man gif" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="Fenish coding" width="300"/>
+</p>
 
 ---
 
-### 🤝 Connect with me:
+### 🌱 About Me
+
+- 🧠 I’m currently learning Web Development and various programming languages.
+- 📧 Reach me at: **[patelfenish245@gmail.com](mailto:patelfenish245@gmail.com)**
+- ⚡ Fun fact: Food and Music 🎵 keep life alive!
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/fenishpatel" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
-  <a href="https://instagram.com/fenish.__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a>
-  <a href="https://x.com/fenish15345964?s=21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
+  <a href="https://www.linkedin.com/in/fenishpatel" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" />
+  </a>
+  <a href="https://instagram.com/fenish.__" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" />
+  </a>
+  <a href="https://x.com/fenish15345964?s=21" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <!-- Car Racing Game -->
   <tr>
-    <td width="100">
-      <img src="https://media.giphy.com/media/26gslYpNP10QzxU3e/giphy.gif" width="100" alt="car racing gif"/>
+    <td width="130">
+      <img src="https://media.tenor.com/BQO43oHgyCIAAAAC/racing-car.gif" width="120" alt="Car Racing Game GIF"/>
     </td>
     <td>
       <strong>🚗 Car Racing Game (C++)</strong><br>
@@ -50,8 +54,8 @@
 
   <!-- Shape Finder Tool -->
   <tr>
-    <td width="100">
-      <img src="https://media.giphy.com/media/l3vR6aasfsJ0uD5EA/giphy.gif" width="100" alt="shape finder gif"/>
+    <td width="130">
+      <img src="https://media.tenor.com/K7IGhco8GcsAAAAC/geometry-shapes.gif" width="100" alt="Shape Tool GIF"/>
     </td>
     <td>
       <strong>📐 Shape Finder Tool (C)</strong><br>
@@ -64,8 +68,8 @@
 
   <!-- To-Do List Manager -->
   <tr>
-    <td width="100">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lvMW9pcWxkc3h5Z2dsaTZ6a3A3cnM0dmhxNnhhYmZmbDYzNmI4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mb43cH6ZtT2YtDi/giphy.gif" width="100" alt="todo list gif"/>
+    <td width="130">
+      <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/check-mark-verified.gif" width="100" alt="To-do list gif"/>
     </td>
     <td>
       <strong>📝 To-Do List Manager (C)</strong><br>
@@ -77,24 +81,28 @@
 
 ---
 
-### 💻 Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+### 💻 Languages & Tools
+
+#### Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
 </p>
 
----
+#### IDEs & Editors
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" />
+</p>
 
-### 🛠️ IDEs & Tools
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Boards" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
+#### Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
 </p>
 
 ---
@@ -102,11 +110,10 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fenishpatel&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FenishPatel0245&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FenishPatel0245&layout=compact&theme=dark" width="48%" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fenishpatel&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fenishpatel&theme=dark&background=0d1117" alt="GitHub Streak" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FenishPatel0245&theme=dark" width="60%" />
 </p>
