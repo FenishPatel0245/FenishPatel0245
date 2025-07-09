@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋,Fenish Patel </h1>
-<h3 align="center"> Computer science Student at Conestoga college, waterloo , Canada 🇨🇦 🌟.</h3>
+<h3 align="center"> Computer science Student at Conestoga college, waterloo , Canada 🌟.</h3>
 <br>
 <p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="adam-pw"> 
   <p></p>
@@ -10,7 +10,7 @@
 <p>🌱 I’m currently learning Web Development and other programming languages</p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:patelfenish245@gmail.com">adampithewan@gmail.com</a></strong></p>
+<p>📫 How to reach me <strong><a href="mailto:patelfenish245@gmail.com">patelfenish245@gmail.com</a></strong></p>
 </li>
 <li>
 <p>⚡ Fun fact :- Food and Music🎵 are the reasons to live.</p>
