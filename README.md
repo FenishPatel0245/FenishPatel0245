@@ -60,20 +60,22 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
   </a>
 </p>
-
-<!-- ===== TOOLS / PLATFORM ===== -->
-<h3 align="left">Tools &amp; Platforms</h3>
+<!-- ===== TOOLS & PLATFORMS ===== -->
+<h3 align="left">🔗 Tools & Platforms</h3>
 <p align="left">
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="margin-right:10px"/>
   </a>
-  <!--Azure Boards -->
- <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="azure boards" width="40" height="40"/>
+  
+  <!-- Azure -->
+  <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" style="margin-right:10px"/>
+  </a>
+
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="margin-right:10px"/>
   </a>
 </p>
 <br>
