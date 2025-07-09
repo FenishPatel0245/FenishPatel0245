@@ -24,15 +24,9 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/fenishpatel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/fenish.__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/>
-  </a>
-  <a href="https://x.com/fenish15345964?s=21" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/>
-  </a>
+  <a href="https://www.linkedin.com/in/fenishpatel" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/></a>
+  <a href="https://instagram.com/fenish.__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a>
+  <a href="https://x.com/fenish15345964?s=21" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
 </p>
 
 ---
@@ -43,7 +37,7 @@
   <!-- Car Racing Game -->
   <tr>
     <td width="100">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTljY3lnOTh0dGRlMGpvcDdnMGt5dHl3b3pkMjl4YjI2czU1aXYyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26gslYpNP10QzxU3e/giphy.gif" width="100" alt="car racing gif"/>
+      <img src="https://media.giphy.com/media/26gslYpNP10QzxU3e/giphy.gif" width="100" alt="car racing gif"/>
     </td>
     <td>
       <strong>🚗 Car Racing Game (C++)</strong><br>
@@ -57,7 +51,7 @@
   <!-- Shape Finder Tool -->
   <tr>
     <td width="100">
-      <img src="https://media.giphy.com/media/3oEjI9A1KwXjN5h7Vu/giphy.gif" width="100" alt="shape detection gif"/>
+      <img src="https://media.giphy.com/media/l3vR6aasfsJ0uD5EA/giphy.gif" width="100" alt="shape finder gif"/>
     </td>
     <td>
       <strong>📐 Shape Finder Tool (C)</strong><br>
@@ -71,7 +65,7 @@
   <!-- To-Do List Manager -->
   <tr>
     <td width="100">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc0MXQ3YWN5bmJoMGJ4Y2JkZXdoanl3czU3dTl2ZWp3eW94bmtmOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" width="100" alt="todo gif"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lvMW9pcWxkc3h5Z2dsaTZ6a3A3cnM0dmhxNnhhYmZmbDYzNmI4cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6Mb43cH6ZtT2YtDi/giphy.gif" width="100" alt="todo list gif"/>
     </td>
     <td>
       <strong>📝 To-Do List Manager (C)</strong><br>
@@ -92,17 +86,15 @@
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-### 🛠️ IDEs & Editors
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/></a>
-</p>
+---
 
-### 🔗 Tools & Platforms
+### 🛠️ IDEs & Tools
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/boards/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure Boards" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
 </p>
 
 ---
