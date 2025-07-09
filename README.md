@@ -24,6 +24,29 @@
  <a href="https://x.com/fenish15345964?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adampithewan" height="30" width="40"></a>
 </p>
 <br>
+<!-- ===== PROJECTS ===== -->
+<h3 align="left">🚀 Projects</h3>
+
+<ul>
+  <li>
+    <strong>🚗 Car Racing Game (C++)</strong><br>
+    A console-based car dodging game featuring speed algorithms, user profiles, and collision detection. Compiled as a Windows `.exe` with visual feedback.
+    <br>🔗 <a href="https://github.com/YOUR_USERNAME/car-racing-game" target="_blank">View Project</a>
+  </li>
+  <br>
+  <li>
+    <strong>📐 Shape Finder Tool (C)</strong><br>
+    A C program to analyze user-input dimensions and identify shapes (triangle, square, rectangle), including input validation and edge case detection.
+    <br>🔗 <a href="https://github.com/YOUR_USERNAME/shape-finder" target="_blank">View Project</a>
+  </li>
+  <br>
+  <li>
+    <strong>📝 To-Do List Manager (C)</strong><br>
+    A task management system with features for adding, editing, sorting, and completing tasks. Includes input validation for dates and priority levels.
+    <br>🔗 <a href="https://github.com/YOUR_USERNAME/todolist-c-project" target="_blank">View Project</a>
+  </li>
+</ul>
+
 <!-- ===== LANGUAGES ===== -->
 <h3 align="left">Languages</h3>
 <p align="left">
