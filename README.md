@@ -28,43 +28,39 @@
 <h3 align="left">🚀 Featured Projects</h3>
 
 <table>
+  <!-- Car Racing Game -->
   <tr>
     <td width="100">
-      <img src="https://media.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.gif" width="100" alt="car game gif"/>
+      <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="car racing gif"/>
     </td>
     <td>
       <strong>🚗 Car Racing Game (C++)</strong><br>
-      Console-based car dodging game featuring speed algorithms, user profiles, and collision detection. Runs as a Windows `.exe` with a fun UI experience.<br>
+      A console-based car dodging game featuring speed algorithms, user profiles, and collision detection. Compiled as a Windows `.exe` with visual feedback.<br>
       🔗 <a href="https://github.com/YOUR_USERNAME/car-racing-game" target="_blank" title="View on GitHub">View Project</a>
     </td>
   </tr>
 
   <tr><td colspan="2"><br></td></tr>
 
+  <!-- Shape Finder -->
   <tr>
     <td width="100">
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="shape finder gif"/>
+      <img src="https://media.giphy.com/media/xUOwGcxp4xV1aApCbW/giphy.gif" width="100" alt="geometry gif"/>
     </td>
     <td>
       <strong>📐 Shape Finder Tool (C)</strong><br>
-      A C program that determines shapes (triangle, square, rectangle) based on user inputs. Includes detailed validation and edge case logic.<br>
+      A C program to analyze user-input dimensions and identify shapes (triangle, square, rectangle), including input validation and edge case detection.<br>
       🔗 <a href="https://github.com/YOUR_USERNAME/shape-finder" target="_blank" title="View on GitHub">View Project</a>
     </td>
   </tr>
 
   <tr><td colspan="2"><br></td></tr>
 
+  <!-- To-Do List -->
   <tr>
     <td width="100">
-      <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100" alt="todo gif"/>
-    </td>
-    <td>
-      <strong>📝 To-Do List Manager (C)</strong><br>
-      CLI-based task manager supporting add, delete, complete, search, and sort with validated due dates and categories.<br>
-      🔗 <a href="https://github.com/YOUR_USERNAME/todolist-c-project" target="_blank" title="View on GitHub">View Project</a>
-    </td>
-  </tr>
-</table>
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.g
+
 
 <!-- ===== LANGUAGES ===== -->
 <h3 align="left">Languages</h3>
