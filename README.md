@@ -54,7 +54,7 @@
   </tr>
   <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td width="100"><img src="https://media.giphy.com/media/xUOwGcxp4xV1aApCbW/giphy.gif" width="100" alt="geometry"/></td>
+    <td width="100"><https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="100" alt="geometry"/></td>
     <td>
       <strong>📐 Shape Finder Tool (C)</strong><br>
       Determines geometric shapes from user inputs with input validation.<br>
