@@ -29,17 +29,19 @@
 ### 🤝 Connect with me:
 
 <p align="left">
+  <!-- Twitter / X -->
   <a href="https://x.com/fenish15345964?s=21" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50" alt="Twitter GIF"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fenishpatel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50" alt="LinkedIn GIF"/>
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/fenish.__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/FenishPatel0245" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50" alt="Instagram GIF"/>
   </a>
 </p>
 
