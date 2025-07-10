@@ -45,7 +45,7 @@
 
 <table>
   <tr>
-    <td width="100"><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="100" alt="car racing"/></td>
+    <td width="100"><https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FvMnRiazk3Mm85bDFucThmaDVrbWE5OHFubzZwcXBodHBoN2QwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEJ5zikFjdFjq/giphy.gif" width="100" alt="car racing"/></td>
     <td>
       <strong>🚗 Car Racing Game (C++)</strong><br>
       Console-based car dodging game with speed algorithms and collision detection.<br>
