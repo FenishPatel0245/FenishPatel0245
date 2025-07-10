@@ -41,36 +41,54 @@
 
 ---
 
-### 🚀 Featured Projects
+<!-- ========================== -->
+<!-- 🚀 Featured Projects -->
+<!-- ========================== -->
+
+<h3 align="left">🚀 Featured Projects</h3>
 
 <table>
+  <!-- Car Racing Game -->
   <tr>
-    <td width="100"><https://github.com/FenishPatel0245/FenishPatel0245/assets/74038190/8b61b34a-264f-4592-896a-b3b076b9e376" width="100" alt="car racing"/></td>
+    <td width="130">
+      <img src="https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="120" alt="car racing gif"/>
+    </td>
     <td>
       <strong>🚗 Car Racing Game (C++)</strong><br>
-      Console-based car dodging game with speed algorithms and collision detection.<br>
-      🔗 <a href="https://github.com/YOUR_USERNAME/car-racing-game" target="_blank">View Project</a>
+      Console-based car dodging game with speed algorithms, user profiles, and collision detection.<br>
+      🔗 <a href="https://github.com/FenishPatel0245/Car_Game" target="_blank">View Project</a>
     </td>
   </tr>
+
   <tr><td colspan="2"><br></td></tr>
+
+  <!-- Shape Finder Tool -->
   <tr>
-    <td width="100"><https://user-images.githubusercontent.com/74038190/216656959-bdd9b5f2-9fc8-438e-bbf3-3674c39ec746.gif" width="100" alt="geometry"/></td>
+    <td width="130">
+      <img src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" width="120" alt="shape finder gif"/>
+    </td>
     <td>
       <strong>📐 Shape Finder Tool (C)</strong><br>
-      Determines geometric shapes from user inputs with input validation.<br>
-      🔗 <a href="https://github.com/YOUR_USERNAME/shape-finder" target="_blank">View Project</a>
+      Identifies geometric shapes from user input with input validation. Part of group project for CSCN71020.<br>
+      🔗 <a href="https://github.com/Shumroz2002/CSCN71020_Group3" target="_blank">View Project</a>
     </td>
   </tr>
+
   <tr><td colspan="2"><br></td></tr>
+
+  <!-- To-Do List Manager -->
   <tr>
-    <td width="100"><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" alt="todo list"/></td>
+    <td width="130">
+      <img src="https://user-images.githubusercontent.com/74038190/216658117-5a5c9ab7-7319-4ffa-9e64-79d6bf0fb8d1.gif" width="120" alt="todo list gif"/>
+    </td>
     <td>
       <strong>📝 To-Do List Manager (C)</strong><br>
-      CLI task manager for adding, sorting, completing tasks with validation.<br>
-      🔗 <a href="https://github.com/YOUR_USERNAME/todolist-c-project" target="_blank">View Project</a>
+      CLI-based task manager with sorting, search, and validation features.<br>
+      🔗 <a href="https://github.com/FenishPatel0245/to-do-list-manager" target="_blank">View Project</a>
     </td>
   </tr>
 </table>
+
 
 ---
 
