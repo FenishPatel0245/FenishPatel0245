@@ -13,7 +13,7 @@
   <tr>
     <td align="left" width="55%">
       <ul>
-        <li>🌱 I’m currently learning Web Development and various programming languages.</li>
+        <li>🌱 I’m currently enhancing my skills in C/C++ by building real-world projects, while also learning modern web development to become a versatile full-stack developer..</li>
         <li>📫 How to reach me: <a href="mailto:patelfenish245@gmail.com"><strong>patelfenish245@gmail.com</strong></a></li>
         <li>⚡ Fun fact: Food and Music 🎵 keep life alive!</li>
       </ul>
