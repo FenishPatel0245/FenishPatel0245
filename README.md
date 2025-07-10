@@ -45,7 +45,7 @@
 
 <table>
   <tr>
-    <td width="100"><https://private-user-images.githubusercontent.com/74038190/371756395-cf3b95d6-7889-47cf-9456-ce0c96c664d5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMjA5NDIsIm5iZiI6MTc1MjEyMDY0MiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzOTUtY2YzYjk1ZDYtNzg4OS00N2NmLTk0NTYtY2UwYzk2YzY2NGQ1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA0MTA0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhODRiMzdjOGM3M2VhZWI4ZmY0MTI0OGYxMmEzZjRhNmZkNjgwNDM5MDQ2NDM1ODUxMjczZDBhNDIxNzc3YTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.nddrPHbVvZuYVfmLnLL1KEPbSeKAr8ePz8WyKcb_yxA" width="100" alt="car racing"/></td>
+    <td width="100"><https://github.com/FenishPatel0245/FenishPatel0245/assets/74038190/8b61b34a-264f-4592-896a-b3b076b9e376" width="100" alt="car racing"/></td>
     <td>
       <strong>🚗 Car Racing Game (C++)</strong><br>
       Console-based car dodging game with speed algorithms and collision detection.<br>
